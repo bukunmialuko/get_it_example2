@@ -16,7 +16,7 @@ A simple example of using get_it lib
 ## 📸 ScreenShots
 | No Meme Loaded  | Random Meme Loaded |
 | ------------- | ------------- |
-| <img src="art/random_dog_data_not_loaded.jpg" width="300"/> | <img src="art/random_dog_data_loaded.jpg" width="300"/> |
+| <img src="art/random_dog_data_not_loaded.png" width="300"/> | <img src="art/random_dog_data_loaded.png" width="300"/> |
 
 
 ## 🤓 Author(s)
