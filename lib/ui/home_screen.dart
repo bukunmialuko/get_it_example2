@@ -16,6 +16,10 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: Text("DI with get_it"),
+        centerTitle: true,
+      ),
       body: Container(
           child: visibleDog == null
               ? Center(child: Text("No Dog loaded yet"))
